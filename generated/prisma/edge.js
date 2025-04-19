@@ -114,7 +114,7 @@ const config = {
       "value": "prisma-client-js"
     },
     "output": {
-      "value": "D:\\fetchingmoviesfromdb\\generated\\prisma",
+      "value": "D:\\NextJSPrisma\\generated\\prisma",
       "fromEnvVar": null
     },
     "config": {
@@ -128,7 +128,7 @@ const config = {
       }
     ],
     "previewFeatures": [],
-    "sourceFilePath": "D:\\fetchingmoviesfromdb\\prisma\\schema.prisma",
+    "sourceFilePath": "D:\\NextJSPrisma\\prisma\\schema.prisma",
     "isCustomOutput": true
   },
   "relativeEnvPaths": {
